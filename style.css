@@ -124,3 +124,32 @@ main > div {
 .about-text ul {
   text-align: left;
 }
+
+/* Portfolio Section */
+#portfolio .portfolio-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 25px;
+  width: 100%;
+}
+
+#portfolio .portfolio-section > section {
+  flex: 1;
+  min-width: 0;
+}
+
+#portfolio .portfolio-section h3 {
+  text-align: center;
+}
+
+#portfolio .portfolio-section p {
+  font-size: 14px;
+  line-height: 1.5;
+  text-align: left;
+}
+
+#portfolio .portfolio-section img {
+  width: 100%;
+  max-width: 200px;
+}
