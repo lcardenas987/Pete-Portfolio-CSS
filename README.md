@@ -214,6 +214,7 @@ The completed website includes:
 [https://github.com/lcardenas987/Pete-Portfolio-CSS](https://github.com/lcardenas987/Pete-Portfolio-CSS)
 
 **GitHub Pages Website:**
+https://lcardenas987.github.io/Pete-Portfolio-CSS/
 
 ## Conclusion
 
